@@ -1,0 +1,5 @@
+﻿1>------ Сборка начата: проект: Triangle, Конфигурация: Release Any CPU ------
+1>  Triangle -> C:\Users\Олег\Documents\GitHub\second\Triangle\Triangle\bin\Release\Triangle.dll
+2>------ Сборка начата: проект: TriangleTest, Конфигурация: Release Any CPU ------
+2>  TriangleTest -> C:\Users\Олег\Documents\GitHub\second\Triangle\TriangleTest\bin\Release\TriangleTest.dll
+========== Сборка: успешно: 2, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
